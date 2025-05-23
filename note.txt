@@ -1,0 +1,3 @@
+d_threshold set bằng 0.05 thì sihoutte rất bé với k>2
+0.1 thì chia được raats nhiều, không biết chọn cái nào :vv
+bằng 0.15 thì khá triển vọng kết quả 3,4,5,6 đều khá cao. chọn số 4 có vẻ hợp lý 
